@@ -1,4 +1,3 @@
-AppCenter PR Test
 
 # Android Instant Apps - Sample code collection
 
